@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b117dd4514e67ff4685f2c62d844c98a, type: 3}
+  m_Name: EquipmentData
+  m_EditorClassIdentifier: 
+  equippedWeapon: {fileID: 0}
+  equippedHead: {fileID: 0}
+  equippedArmor: {fileID: 0}
+  equippedBoots: {fileID: 0}
